@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulnegi321&label=Profile%20views&color=0e75b6&style=flat" alt="rahulnegi321" /> </p>
 
-- 👨‍💻 My Portfolio :-  [https://my-portfolio-rahulnegi321s-projects.vercel.app/](my-portfolio)
+- 👨‍💻 My Portfolio :-  [my-portfolio](https://my-portfolio-rahulnegi321s-projects.vercel.app/)
 
 - 📫 How to reach me **rahulnegi0312303@gmail.com**
 
