@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Rahul Negi</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulnegi321&label=Profile%20views&color=0e75b6&style=flat" alt="rahulnegi321" /> </p>
 
-- 👨‍💻 My Portfolio :-  [my-portfolio](https://my-portfolio-rahulnegi321s-projects.vercel.app/)
+- 👨‍💻 my portfoloi [https://my-portfolio-rahulnegi321s-projects.vercel.app/](https://my-portfolio-rahulnegi321s-projects.vercel.app/)
 
 - 📫 How to reach me **rahulnegi0312303@gmail.com**
- 
+
 - 📄 Know about my experiences [.](.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/rahulnegi123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahulnegi123" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rahul__negi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahul__negi" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/rahulnegiru7y/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/rahulnegiru7y/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
